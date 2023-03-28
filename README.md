@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @StefanGeorgesco
-- 👀 I’m interested in coding web apps, both backend and frontend
-- 🌱 I’m currently learning JavaScript, Python, PHP, Java and have no project experience yet
-- 💞️ I’m looking to collaborate on cool projects (websites, web apps, or any other challenging project) to learn in the real life of a developer.
-- 📫 How to reach me stefan.georgesco@yahoo.fr
+- 👋 Hi, I am Stefan Georgesco @StefanGeorgesco, a junior full-stack developer.
+- 👀 I’m interested in coding web sites and web apps (SPA), both backend and frontend, and also functional and reactive programmnig, along with optimization and algorithms.
+- 🌱 My main coding skills relate to Java, Spring / Spring Boot, HTML / CSS / JavaScript / TypeScript, Vue.js 3, Angular 15, but also Python and PHP.
+- 💞️ I’m looking to collaborate for free on projects (web apps, or any other challenging project) to capitalize on my skills and develop them.
+- 📫 Reach me at stefan.georgesco@yahoo.fr.
 
 <!---
 StefanGeorgesco/StefanGeorgesco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
