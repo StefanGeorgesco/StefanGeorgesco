@@ -1,7 +1,7 @@
-- 👋 Hi, I am Stefan Georgesco @StefanGeorgesco, a junior full-stack developer.
-- 👀 I’m interested in coding web sites and web apps (SPA), both backend and frontend, and also functional and reactive programmnig, along with optimization and algorithms.
+- 👋 Hi, I am Stefan Georgesco @StefanGeorgesco, a junior java developer, with an interst for front end too.
+- 👀 I’m interested in java apps and web apps (SPA), and also in functional and reactive programmnig, along with optimization and algorithms.
 - 🌱 My main coding skills relate to Java, Spring / Spring Boot, HTML / CSS / JavaScript / TypeScript, Vue.js, Angular, but also Python and PHP.
-- 💞️ I’m looking to collaborate for free on projects (web apps, or any other challenging project) to capitalize on my skills and develop them.
+- 💞️ I’m looking to collaborate on projects to capitalize on my skills and develop them.
 - 📫 Reach me at stefan.georgesco@yahoo.fr.
 
 <!---
